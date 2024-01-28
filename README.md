@@ -1,7 +1,6 @@
 # My Black and white practice Second Personal Portfolio
 
 ## Output:
-
 #### HomePage:
 
 ![home_page](https://github.com/gpreet013/My_practice_portfolio/assets/101962521/6f809db1-29fc-4bca-bc68-1eca115fbc00)
